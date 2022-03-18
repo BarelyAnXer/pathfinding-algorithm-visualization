@@ -18,6 +18,8 @@ left click to add walls
 right click to delete walls 
 press q for depth first search
 press w for breadth first search
+press c to resset
+you can also change the dimensions in file
 
 ![1](https://github.com/BarelyAnXer/pathfinding-algorithm-visualization/blob/master/README%20images/1.png)
 
