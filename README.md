@@ -19,3 +19,9 @@ right click to delete walls
 press q for depth first search
 press w for breadth first search
 
+![1](https://github.com/BarelyAnXer/pathfinding-algorithm-visualization/blob/master/README%20images/1.png)
+
+![2](https://github.com/BarelyAnXer/pathfinding-algorithm-visualization/blob/master/README%20images/2.png)
+
+![3](https://github.com/BarelyAnXer/pathfinding-algorithm-visualization/blob/master/README%20images/3.png)
+
